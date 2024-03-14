@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently working for [Automattic](https://automattic.com) on WooPayments and WooPay.
+- My personal repositories are all on [Sourcehut](https://git.sr.ht), so look there for my [newer projects](https://www.thorlaksson.com/projects).
