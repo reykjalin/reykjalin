@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - Currently working for [Automattic](https://automattic.com) on WooPayments and WooPay.
-- My personal repositories are all on [Sourcehut](https://git.sr.ht), so look there for my [newer projects](https://www.thorlaksson.com/projects).
+- My personal repositories are all on [Sourcehut](https://git.sr.ht), so look there for my [newer projects](https://www.thorlaksson.com/projects). Some repositories are mirrored here.
