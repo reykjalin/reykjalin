@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My personal repositories are mostly on [Sourcehut](https://git.sr.ht) these days, so look there for my [newer projects](https://www.thorlaksson.com/projects). Some repositories are mirrored here.
+- I use [Sourcehut](https://git.sr.ht) for [my projects](https://www.thorlaksson.com/projects) these days, but mirror all my repositories to GitHub.
+- Working at [Shopify](https://shopify.com) as a Senior Software Engineer.
+- Read more about me on [my blog](https://www.thorlaksson.com).
